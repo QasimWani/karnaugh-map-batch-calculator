@@ -4,4 +4,4 @@
 > Built to save 3 hours of mundane work and finishing it in ~90 seconds. 
 
 > Designed For : Fundamentals of Digital Systems Class (LE-E3, ECE 2544).
-Written by Qasim Wani.
+#### Written by Qasim Wani.
